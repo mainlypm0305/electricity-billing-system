@@ -5,10 +5,27 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.x-06B6D4?style=flat-square&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-7.x-646CFF?style=flat-square&logo=vite)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat-square&logo=vercel)
 
 A modern, full-featured electricity billing management system with a stunning glassmorphism UI. Built with React, TypeScript, and Tailwind CSS.
 
-![EBS Dashboard Preview](https://via.placeholder.com/800x400/1e1145/00d4ff?text=EBS+2026+Dashboard)
+<div align="center">
+
+### 🌐 [✨ View Live Demo →](https://electricity-billing-system-hazel.vercel.app/)
+
+<a href="https://electricity-billing-system-hazel.vercel.app/">
+  <img 
+    src=".github/assets/dashboard-preview.png" 
+    alt="EBS 2026 Dashboard Preview" 
+    width="100%"
+  />
+</a>
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00d4ff?style=for-the-badge&labelColor=1e1145)](https://electricity-billing-system-hazel.vercel.app/)
+
+</div>
 
 ## ✨ Features
 
